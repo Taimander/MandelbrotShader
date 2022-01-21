@@ -1,7 +1,9 @@
 # MandelbrotShader
 A processing visualization of the Mandelbrot fractal that uses GLSL shaders for computation.
 
-This is a small visualization project I created to learn about how to use GLSL shaders in Processing.
+This is a small visualization project I created to learn about how to use GLSL shaders in Processing:
+
+![A little demo of the visualization](mandelbrotDemoImg.png)
 
 You can drag the screen to move the fractal, also, with the menu on the left, you are able to control how many iterations you want for the computation.
 More iterations give a sharper image, specially the more zoomed in the fractal is, but with a very high number of iterations, it may slow down the render.
